@@ -1,8 +1,6 @@
 <div align="center">
-  <h1 align="center"> quest teleop piper </h1>
-  <h3 align="center"> Agilex Robotics </h3>
+  <h1 align="center"> quest_piper_with_gripper </h1>
   <p align="center">
-    <a href="README.md"> English </a> | <a>中文</a> 
   </p>
 </div>
 
